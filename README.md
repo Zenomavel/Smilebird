@@ -31,7 +31,7 @@
 ```bash
 git clone <repository_url>
 cd <repository_directory>
-
+```
 
 ### Step 2: Install Dependencies
 Install the required Python packages using the `requirements.txt` file:
